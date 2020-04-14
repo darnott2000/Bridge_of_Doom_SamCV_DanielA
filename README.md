@@ -1,5 +1,5 @@
 # Bridge_of_Doom_SamCV_DanielA
- Class Project for Quantatative Engineering Analysis, Involving MATLAB, ROS, and Multivarate Calculus
+ Class Project for Quantatative Engineering Analysis, Involving MATLAB, ROS, and Multivariate Calculus
 
 Link to functioning open-loop Neato (Raspberry pi open-source Robot) bridge Crossing: https://www.youtube.com/watch?v=22z4M8qeZ9s&feature=emb_logo
 
